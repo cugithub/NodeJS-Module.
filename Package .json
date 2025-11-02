@@ -1,0 +1,12 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "A Node.js module to merge overlapping or nearby time ranges with a threshold.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
